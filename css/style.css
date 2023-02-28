@@ -542,7 +542,7 @@ footer p {
 @media screen and (max-width: 360px) {
   header {
     flex-direction: column;
-    min-height: 14vh;
+    min-height: 16vh;
   }
 
   header h1 a {
